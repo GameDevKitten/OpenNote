@@ -1,0 +1,8 @@
+C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\bin\Debug\OpenNote.exe.config
+C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\bin\Debug\OpenNote.exe
+C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\bin\Debug\OpenNote.pdb
+C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\obj\Debug\OpenNote.Form1.resources
+C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\obj\Debug\OpenNote.Properties.Resources.resources
+C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\obj\Debug\OpenNote.csproj.GenerateResource.Cache
+C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\obj\Debug\OpenNote.exe
+C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\obj\Debug\OpenNote.pdb
