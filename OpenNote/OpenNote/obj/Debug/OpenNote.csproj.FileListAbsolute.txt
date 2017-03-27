@@ -6,3 +6,4 @@ C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\obj\Debug\OpenNote.P
 C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\obj\Debug\OpenNote.csproj.GenerateResource.Cache
 C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\obj\Debug\OpenNote.exe
 C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\obj\Debug\OpenNote.pdb
+C:\Users\Bruker\Documents\GitHub\OpenNote\OpenNote\OpenNote\obj\Debug\OpenNote.csprojResolveAssemblyReference.cache
