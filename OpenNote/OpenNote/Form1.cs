@@ -16,6 +16,7 @@ namespace OpenNote
         public Form1()
         {
             InitializeComponent();
+            
             openFileDialog1.ShowDialog();
             textBox1.Text = File.ReadAllText(openFileDialog1.FileName);
 
