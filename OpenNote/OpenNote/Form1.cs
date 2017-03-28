@@ -16,15 +16,15 @@ namespace OpenNote
         public Form1()
         {
             InitializeComponent();
-            
-            openFileDialog1.ShowDialog();
+            saveFileDialog1.FileName = "Select File To Open";
+            saveFileDialog1.ShowDialog();
             textBox1.Text = File.ReadAllText(openFileDialog1.FileName);
 
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            File.WriteAllText(openFileDialog1.FileName, textBox1.Text);
+            File.WriteAllText(saveFileDialog1.FileName, textBox1.Text);
         }
     }
 }
